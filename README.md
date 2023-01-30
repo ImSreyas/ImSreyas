@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SREYAS
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in PROGRAMMING 
 - 🌱 I’m currently learning ANDROID 
 - 💞️ I’m looking to collaborate on anything that can help me learn... 
 - 📫 How to reach me ... im__sreyas (insta)
