@@ -1,8 +1,8 @@
-- 👋 Hi, I’m sreyas
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning android 
+- 👋 Hi, I’m SREYAS
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning ANDROID 
 - 💞️ I’m looking to collaborate on anything that can help me learn... 
-- 📫 How to reach me ... insta 
+- 📫 How to reach me ... im__sreyas (insta)
 
 <!---
 sreyasProgrammer/sreyasProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
