@@ -22,8 +22,8 @@
 
 - ⚡ **Coding is so much Fun**
 
-<h3 align="center">Connect with me 😉</h3>
-<p align="center">
+<h3 align="left">Connect with me 😉</h3>
+<p align="left">
 <a href="https://instagram.com/s.r.e_y.a.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="30" width="40" /></a>
 <a href="https://dribbble.com/sreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sreyas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imsreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsreyas" height="30" width="40" /></a>
@@ -96,8 +96,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
-
-
+<br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsreyas&show_icons=true&locale=en&layout=compact" height="150px" alt="imsreyas" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsreyas&" height="150px" alt="imsreyas" /></p>
 
 
