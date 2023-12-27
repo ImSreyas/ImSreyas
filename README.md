@@ -20,7 +20,7 @@
 
 - 📫 reach me  **sreyas.dev.contact@gmail.com**
 
-- ⚡ **Coding is so much Fun**
+- ⚡ **Coding is so much Fun, Do you feel the same?**
 
 <h3 align="left">Connect with me 😉</h3>
 <p align="left">
