@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://instagram.com/s.r.e_y.a.s" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="60" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="36" width="48" />
   </a>
   <a href="https://dribbble.com/im_sreyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sreyas" height="60" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sreyas" height="36" width="48" />
   </a>
   <a href="https://www.leetcode.com/imsreyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsreyas" height="60" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsreyas" height="36" width="48" />
   </a>
 </p>
 
