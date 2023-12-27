@@ -28,15 +28,15 @@
 - dribble - <a href="https://dribbble.com/im_sreyas" target="blank">im_sreyas</a><br>
 - leetcode - <a href="https://www.leetcode.com/imsreyas" target="blank">imsreyas</a><br>
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/s.r.e_y.a.s" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="60" width="80" />
   </a>
-  <a href="https://dribbble.com/sreyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sreyas" height="30" width="40" />
+  <a href="https://dribbble.com/im_sreyas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sreyas" height="60" width="80" />
   </a>
   <a href="https://www.leetcode.com/imsreyas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsreyas" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsreyas" height="60" width="80" />
   </a>
 </p>
 
