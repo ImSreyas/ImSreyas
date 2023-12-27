@@ -23,6 +23,9 @@
 - ⚡ **Coding is so much Fun, Do you feel the same?**
 
 <h3 align="left">Connect with me 😉</h3>
+- instagram - <a href="https://instagram.com/s.r.e_y.a.s" target="blank">s.r.e_y.a.s</a>
+- dribble - <a href="https://dribbble.com/im_sreyas" target="blank">im_sreyas</a>
+- leetcode - <a href="https://www.leetcode.com/imsreyas" target="blank">imsreyas</a>
 <p align="left">
   <a href="https://instagram.com/s.r.e_y.a.s" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.r.e_y.a.s" height="30" width="40" />
