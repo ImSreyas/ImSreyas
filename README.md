@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Buddy 👋, I'm SREYAS 😎</h1>
+<h1 align="center">Hey Buddy 👋, I'm SREYAS ✨</h1>
 <h3 align="center">A passionate React developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> </p>
