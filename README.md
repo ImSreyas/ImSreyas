@@ -58,7 +58,7 @@
 <br>
 <h2 align="center">My Contributions 🐉</h2>
 <div align="center">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/ImSreyas/ImSreyas/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/ImSreyas/ImSreyas/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <h2 align="center">Stats ⚡</h2>
