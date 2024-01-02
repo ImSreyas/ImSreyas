@@ -53,7 +53,7 @@
   
   **Currently Learning**
   
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,graphql,rust,mongodb,androidstudio,githubactions,jest" />
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,graphql,rust,mongodb,androidstudio" />
 </div>
 <br>
 <h2 align="center">My Contributions 🐉</h2>
