@@ -3,16 +3,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&height=90&lines=Hey+Buddy!++%F0%9F%91%8B;I'm+SREYAS+✨" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Web developer from India 🇮🇳</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> </p>
 
 <p>
   
     const me = {
       name : "Sreyas ✨",
-      like : "React 💙",      
+      from : "India 🇮🇳",
       age : currentYear => currentYear - 2003,
+      like : "React 💙",      
       coding : {      
         languages : {
           frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
