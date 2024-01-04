@@ -7,24 +7,38 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> </p>
 
+<p>
+  
+    const me = {
+      name : "Sreyas ✨",
+      like : "React 💙",      
+      age : currentYear => currentYear - 2003,
+      coding : {      
+        languages : {
+          frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
+          backEnd : ["Firebase", "PHP", "MySql", "NodeJS"],
+          fullStack : ["Flask"],
+          libraries : ["JQuery", "Redux", "React-router-dom"]
+        },
+        tools : ["Git", "Figma", "Github"],
+        editors : ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
+        learning : ["TypeScript", "NextJs", "Tailwind", "Express", "MongoDB", "Rust", "GraphQL", "AndroidStudio"]
+      }
+      system : {
+        os : "Linux 🤓",
+        distro : {
+          name : "Fedora 🎩",
+          version : 39,
+          kernel : 6.6.8
+        }
+      }
+    }
+
+</p>
+
 <div align="center">
-
-🚀 I’m currently learning **React**
-
-✨ **Things I'm good at** 
-
-**React**<br>
-**JavaScript**<br>
-**Python**<br>
-**VIM**<br>
-**C language**<br>
-**Linux**<br>
-**Web Development**<br>
-**git**<br>
-**Data Structure**<br>
-**HTML, CSS, SCSS**<br><br>
-
-⚡ **Coding is so much Fun, Do you feel the same?**
+  
+🔥 **Coding is so much Fun, Do you feel the same?**
 
 **Reach Me**
 
