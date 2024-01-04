@@ -3,7 +3,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&height=90&lines=Hey+Buddy!++%F0%9F%91%8B;I'm+SREYAS+✨" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> </p>
+<p align="center"> 
+<!--   <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> <br> -->
+  <img src="https://profile-counter.glitch.me/ImSreyas/count.svg" alt="visitor"/>
+</p>
 
 <p>
   
