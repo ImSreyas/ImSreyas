@@ -16,7 +16,7 @@
         languages : {
           frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
           backEnd : ["Firebase", "PHP", "MySql", "NodeJS"],
-          fullStack : ["Flask"],
+          fullStack : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
           libraries : ["JQuery", "Redux", "React-router-dom"]
         },
         tools : ["Git", "Figma", "Github"],
