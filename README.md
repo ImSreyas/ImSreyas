@@ -47,13 +47,13 @@
 <h2 align="center">Languages, Frameworks, Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,vim,linux,python,c,cpp,java,php,firebase,bash,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,git,mysql,figma,flask,nodejs,redux,jquery,neovim,github,raspberrypi" />
+  <img max-width="75%" src="https://skillicons.dev/icons?i=react,js,vim,linux,python,c,cpp,java,php,firebase,bash,vscode" /><br>
+  <img max-width="75%" src="https://skillicons.dev/icons?i=html,css,scss,git,mysql,figma,flask,nodejs,redux,jquery,neovim,github,raspberrypi" />
   <br><br>
   
-  **Currently Learning**
+  **`Learning`**
   
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,graphql,rust,mongodb,androidstudio" />
+  <img max-width="75%" src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,graphql,rust,mongodb,androidstudio" />
 </div>
 <br>
 <h2 align="center">My Contributions 🐉</h2>
