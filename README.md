@@ -10,8 +10,8 @@
     const me = {
       name : "Sreyas ✨",
       from : "India 🇮🇳",
-      age : currentYear => currentYear - 2003,
       like : "React 💙",      
+      age : currentYear => currentYear - 2003,
       coding : {      
         languages : {
           frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
