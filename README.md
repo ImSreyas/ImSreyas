@@ -81,6 +81,6 @@
 <div align="center">
   <img height="120" alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=imsreyas&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=20" style="max-width: 100%;">
   <img height="120" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsreyas&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=20&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" style="max-width: 100%;">
-  <img height="120" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imsreyas&amp;count_private=true&amp;theme=react&amp;border_radius=20" style="max-width: 100%;">
+  <img height="120" src="https://streak-stats.demolab.com?user=imsreyas&theme=react&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" style="max-width: 100%;" alt=" " />
 </div>
 <br><br>
