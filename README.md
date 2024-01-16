@@ -13,7 +13,7 @@
     const me = {
       name : "Sreyas ✨",
       from : "India 🇮🇳",
-      like : "React 💙",      
+      fav : "React 💙",      
       age : currentYear => currentYear - 2003,
       coding : {      
         languages : {
