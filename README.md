@@ -31,7 +31,7 @@
         distro : {
           name : "Fedora 🎩",
           version : 39,
-          kernel : 6.7.2
+          kernel : 6.7.3
         }
       }
     }
