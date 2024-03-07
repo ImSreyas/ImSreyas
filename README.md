@@ -17,7 +17,7 @@
       from : "India 🇮🇳",
       fav : "React 💙",      
       age : currentYear => currentYear - 2003,
-      coding : {      
+      dev : {      
         languages : {
           frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
           backEnd : ["Firebase", "PHP", "MySql", "NodeJS"],
