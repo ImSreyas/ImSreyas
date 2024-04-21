@@ -34,7 +34,8 @@
           name : "Fedora 🎩",
           version : 39,
           kernel : 6.8.6
-        }
+        },
+        PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       }
     }
 ```
