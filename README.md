@@ -15,7 +15,7 @@
     const me = {
       name : "Sreyas ✨",
       from : "India 🇮🇳",
-      favLang : "Rust 💙",      
+      favLang : "Rust 🦀",      
       age : currentYear => currentYear - 2003,
       dev : {      
         languages : {
@@ -73,7 +73,7 @@
   
   **`Learning`**
   
-  <img width="50%" src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,graphql,rust,mongodb,androidstudio" />
+  <img width="50%" src="https://skillicons.dev/icons?i=rust,ts,tailwind,nextjs,mongodb,express,graphql,androidstudio" />
 </div>
 <br>
 <h2 align="center">My Contributions 🐉</h2>
