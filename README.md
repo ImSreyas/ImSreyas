@@ -15,7 +15,7 @@
     const me = {
       name : "Sreyas ✨",
       from : "India 🇮🇳",
-      fav : "React 💙",      
+      favLang : "Rust 💙",      
       age : currentYear => currentYear - 2003,
       dev : {      
         languages : {
