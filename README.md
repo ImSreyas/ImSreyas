@@ -33,7 +33,7 @@
         distro : {
           name : "Fedora 🎩",
           version : 39,
-          kernel : 6.8.6
+          kernel : 6.8.7
         },
         PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       }
