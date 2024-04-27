@@ -32,7 +32,7 @@
         os : "Linux 🤓",
         distro : {
           name : "Fedora 🎩",
-          version : 39,
+          version : 40,
           kernel : 6.8.7
         },
         PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
