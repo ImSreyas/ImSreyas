@@ -20,17 +20,51 @@
       dev : {      
         programming : {
           languages : {
-            know : ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
-            learning : ["Rust 🦀", "TypeScript", "Tailwind", "Prisma", "Drizzle", "MongoDB", "Express", "ReactNative", "AndroidStudio"]
+            knows : ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
+            learning : ["Rust 🦀", "TypeScript"]
+          },
+          frontEnd : {
+            knows : ["Javascript", "React", "HTML", "CSS", "SCSS", "SASS"],
+            learning : ["NextJS", "TailwindCSS"]
+          },
+          backEnd : {
+            knows : ["PHP", "NodeJS"],
+            learning : ["Rust", "Actix", "Rocket", "Axum", "Express"]
+          },
+          fullStack : {
+            knows : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
+          },
+          db : {
+            knows : ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
+            learning : ["Postgres"]
+          },
+          mobile : {
+            learning : {
+              crossPlatform : {
+                framework : ["ReactNative"],
+                tools : ["Expo"]
+              },
+              Android : {
+                language : ["Kotlin"],
+                toolKit : ["JetpackCompose"],
+                tools : ["AndroidStudio"],
+              }
+            }
+          },
+          libraries : {
+            knows : ["JQuery", "Redux", "React-router-dom"]
+          },
+          devTools : {
+            learning : {
+              orm : ["Drizzle", "Prisma"]
+            }
           }
-          frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
-          backEnd : ["Firebase", "PHP", "MySql", "NodeJS"],
-          fullStack : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
-          libraries : ["JQuery", "Redux", "React-router-dom"]
         },
-        tools : ["Git", "Figma", "Github"],
+        tools : {
+          design : ["Figma"],
+          workflow : ["Git", "Github"]
+        },
         editors : ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
-        learning : ["Rust 🦀", "NextJs", "TypeScript", "Tailwind", "Prisma", "Drizzle", "MongoDB", "Express", "ReactNative", "AndroidStudio"]
       }
       system : {
         os : "Linux 🤓",
