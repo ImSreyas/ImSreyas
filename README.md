@@ -18,7 +18,11 @@
       favLang : "Rust 🦀",      
       age : currentYear => currentYear - 2003,
       dev : {      
-        languages : {
+        programming : {
+          languages : {
+            know : ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
+            learning : ["Rust 🦀", "TypeScript", "Tailwind", "Prisma", "Drizzle", "MongoDB", "Express", "ReactNative", "AndroidStudio"]
+          }
           frontEnd : ["Javascript", "React", "Python", "C", "C++", "HTML", "CSS", "SASS", "SCSS", "Java", "Bash"],
           backEnd : ["Firebase", "PHP", "MySql", "NodeJS"],
           fullStack : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
