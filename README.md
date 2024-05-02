@@ -26,7 +26,7 @@
         },
         tools : ["Git", "Figma", "Github"],
         editors : ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
-        learning : ["TypeScript", "NextJs", "Tailwind", "Express", "MongoDB", "Rust", "GraphQL", "AndroidStudio"]
+        learning : ["Rust 🦀", "NextJs", "TypeScript", "Tailwind", "Prisma", "Drizzle", "MongoDB", "Express", "ReactNative", "AndroidStudio"]
       }
       system : {
         os : "Linux 🤓",
