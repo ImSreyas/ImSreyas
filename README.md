@@ -36,7 +36,7 @@
           },
           db : {
             knows : ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
-            learning : ["Postgres"]
+            learning : ["PostgreSQL"]
           },
           mobile : {
             learning : {
