@@ -29,7 +29,7 @@
           },
           backEnd : {
             knows : ["PHP", "NodeJS"],
-            learning : ["Rust", "Actix", "Rocket", "Axum", "Express"]
+            learning : ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]
           },
           fullStack : {
             knows : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
