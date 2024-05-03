@@ -16,7 +16,7 @@
       name : "Sreyas ✨",
       from : "India 🇮🇳",
       favLang : "Rust 🦀",      
-      age : currentYear => currentYear - 2003,
+      age : (currentYear = new Date().getFullYear()) => currentYear - 2003,
       system : {
         os : "Linux 🤓",
         distro : {
