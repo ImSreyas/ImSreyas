@@ -71,7 +71,7 @@
         distro : {
           name : "Fedora 🎩",
           version : 40,
-          kernel : 6.8.7
+          kernel : 6.8.8
         },
         PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       }
