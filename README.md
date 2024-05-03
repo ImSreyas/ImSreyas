@@ -17,6 +17,15 @@
       from : "India 🇮🇳",
       favLang : "Rust 🦀",      
       age : currentYear => currentYear - 2003,
+      system : {
+        os : "Linux 🤓",
+        distro : {
+          name : "Fedora 🎩",
+          version : 40,
+          kernel : 6.8.8
+        },
+        PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
+      },
       dev : {      
         programming : {
           languages : {
@@ -65,15 +74,6 @@
           workflow : ["Git", "Github"]
         },
         editors : ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
-      }
-      system : {
-        os : "Linux 🤓",
-        distro : {
-          name : "Fedora 🎩",
-          version : 40,
-          kernel : 6.8.8
-        },
-        PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       }
     }
 ```
