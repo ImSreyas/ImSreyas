@@ -16,7 +16,9 @@
       name : "Sreyas ✨",
       from : "India 🇮🇳",
       favLang : "Rust 🦀",      
-      age : (currentYear = new Date().getFullYear()) => currentYear - 2003,
+      age : (currentYear = new Date().getFullYear()) => {
+        return currentYear - 2003
+      },
       system : {
         os : "Linux 🤓",
         distro : {
