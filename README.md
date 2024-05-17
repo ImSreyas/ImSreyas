@@ -1,4 +1,4 @@
-
+p
 <h1 align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&height=90&lines=Hey+Buddy!++%F0%9F%91%8B;I'm+SREYAS+✨" alt="Typing SVG" /></a> -->
   <img src="./images/main.png" alt=" " width="80%" />
@@ -26,7 +26,7 @@
           version : 40,
           kernel : $(uname -r | cut -d"-" -f1) // 6.8.9
         },
-        PrevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
+        prevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       },
       dev : {      
         programming : {
@@ -34,17 +34,17 @@
             knows : ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
             learning : ["Rust 🦀", "TypeScript"]
           },
-          frontEnd : {
-            knows : ["Javascript", "React", "HTML", "CSS", "SCSS", "SASS"],
-            learning : ["NextJS", "TailwindCSS"]
-          },
-          backEnd : {
-            knows : ["PHP", "NodeJS"],
-            learning : ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]
-          },
-          fullStack : {
-            knows : ["Flash ⚡"],  // Ya, I know, It's Flask 🤫.
-          },
+          webDevelopment: {
+                knows: {
+                    frontEnd: ["Javascript", "React", "HTML", "CSS", "SCSS", "SASS"],
+                    backEnd: ["PHP", "NodeJS"],
+                    fullStack: ["Flash ⚡"] // Ya, I know, It's Flask 🤫.
+                },
+                learning: {
+                    frontEnd: ["NextJS", "TailwindCSS"],
+                    backEnd: ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]
+                }
+            },
           db : {
             knows : ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
             learning : ["PostgreSQL"]
@@ -55,7 +55,7 @@
                 framework : ["ReactNative"],
                 tools : ["Expo"]
               },
-              Android : {
+              android : {
                 language : ["Kotlin"],
                 toolKit : ["JetpackCompose"],
                 tools : ["AndroidStudio"],
