@@ -13,69 +13,63 @@ p
   
 ```javascript
     const me = {
-      name : "Sreyas ✨",
-      from : "India 🇮🇳",
-      favLang : "Rust 🦀",      
-      age : (currentYear = new Date().getFullYear()) => {
+      name: "Sreyas ✨",
+      from: "India 🇮🇳",
+      favLang: "Rust 🦀",      
+      age: (currentYear = new Date().getFullYear()) => {
         return currentYear - 2003
       },
-      system : {
-        os : "Linux 🤓",
-        distro : {
-          name : "Fedora 🎩",
-          version : 40,
-          kernel : $(uname -r | cut -d"-" -f1) // 6.8.9
+      system: {
+        os "Linux 🤓",
+        distro: {
+          name: "Fedora 🎩",
+          version: 40,
+          kernel: $(uname -r | cut -d"-" -f1) // 6.8.9
         },
-        prevDistro : ["Ubuntu", "EndeavourOS", "ZorinOS"] 
+        prevDistro: ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       },
-      dev : {      
-        programming : {
-          languages : {
-            knows : ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
-            learning : ["Rust 🦀", "TypeScript"]
+      dev: {      
+        programming: {
+          languages: {
+            knows: ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
+            learning: ["Rust 🦀", "TypeScript"]
           },
           webDevelopment: {
                 knows: {
-                    frontEnd: ["Javascript", "React", "HTML", "CSS", "SCSS", "SASS"],
-                    backEnd: ["PHP", "NodeJS"],
-                    fullStack: ["Flash ⚡"] // Ya, I know, It's Flask 🤫.
+                    frontEnd : ["Javascript", "React", "JQuery", "HTML", "CSS", "SCSS", "SASS"],
+                    backEnd : ["PHP", "NodeJS"],
+                    fullStack : ["Flash ⚡"], // Ya, I know, It's Flask 🤫.
+                    lib: ["Redux", "React-router-dom"]
                 },
                 learning: {
                     frontEnd: ["NextJS", "TailwindCSS"],
-                    backEnd: ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]
-                }
+                    backEnd: ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"],
+                    orm: ["Drizzle", "Prisma"]
+                }             
             },
-          db : {
-            knows : ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
-            learning : ["PostgreSQL"]
+          db: {
+            knows: ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
+            learning: ["PostgreSQL"]
           },
-          mobile : {
-            learning : {
-              crossPlatform : {
-                framework : ["ReactNative"],
-                tools : ["Expo"]
+          mobile: {
+            learning: {
+              crossPlatform: {
+                framework: ["ReactNative"],
+                tools: ["Expo"]
               },
               android : {
-                language : ["Kotlin"],
-                toolKit : ["JetpackCompose"],
-                tools : ["AndroidStudio"],
+                language: ["Kotlin"],
+                toolKit: ["JetpackCompose"],
+                tools: ["AndroidStudio"],
               }
-            }
-          },
-          libraries : {
-            knows : ["JQuery", "Redux", "React-router-dom"]
-          },
-          devTools : {
-            learning : {
-              orm : ["Drizzle", "Prisma"]
             }
           }
         },
-        tools : {
-          design : ["Figma"],
-          workflow : ["Git", "Github"]
+        tools: {
+          design: ["Figma"],
+          workflow: ["Git", "Github"]
         },
-        editors : ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
+        editors: ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
       }
     }
 ```
