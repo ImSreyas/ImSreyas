@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
 </a>
 <a href="mailto:sreyas.dev.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;border-radius: 5px;">
 </a>
 <a href="https://www.leetcode.com/imsreyas">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="max-width: 100%;">
