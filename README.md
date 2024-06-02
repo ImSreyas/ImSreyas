@@ -23,7 +23,7 @@
         distro: {
           name: "Fedora 🎩",
           version: 40,
-          kernel: $(uname -r | cut -d"-" -f1) // 6.8.10
+          kernel: $(uname -r | cut -d"-" -f1) // 6.8.11
         },
         prevDistro: ["Ubuntu", "EndeavourOS", "ZorinOS"] 
       },
