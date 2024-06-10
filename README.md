@@ -19,7 +19,7 @@
         return currentYear - 2003
       },
       system: {
-        os "Linux 🤓",
+        os: "Linux 🤓",
         distro: {
           name: "Fedora 🎩",
           version: 40,
