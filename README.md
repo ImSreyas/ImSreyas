@@ -51,26 +51,17 @@
             learning: ["PostgreSQL"]
           },
           mobile: {
-            learning: {
-              crossPlatform: {
-                framework: ["ReactNative"],
-                tools: ["Expo"]
-              },
-              android : {
-                language: ["Kotlin"],
-                toolKit: ["JetpackCompose"],
-                tools: ["AndroidStudio"],
-              }
-            }
+            learning: ["ReactNative"]
           }
-        },
-        tools: {
-          design: ["Figma"],
-          workflow: ["Git", "Github"]
-        },
-        editors: ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
-      }
+        }
+      },
+      tools: {
+        design: ["Figma"],
+        workflow: ["Git", "Github"]
+      },
+      editors: ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
     }
+
 ```
   
 </p>
