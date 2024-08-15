@@ -10,57 +10,65 @@
 
 <p>
   
-```javascript
-    const me = {
-      name: "Sreyas ✨",
-      from: "India 🇮🇳",
-      favLang: "Rust 🦀",      
-      age: (currentYear = new Date().getFullYear()) => {
-        return currentYear - 2003
-      },
-      system: {
-        os: "Linux 🤓",
-        distro: {
-          name: "Fedora 🎩",
-          version: 40,
-          kernel: $(uname -r | cut -d"-" -f1) // 6.10.3
-        },
-        prevDistro: ["Ubuntu", "EndeavourOS", "ZorinOS"] 
-      },
-      dev: {      
-        programming: {
-          languages: {
-            knows: ["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
-            learning: ["Rust 🦀", "TypeScript"]
-          },
-          webDevelopment: {
-                knows: {
-                    frontEnd : ["Javascript", "React", "JQuery", "HTML", "CSS", "SCSS", "SASS"],
-                    backEnd : ["PHP", "NodeJS"],
-                    fullStack : ["Flash ⚡"], // Ya, I know, It's Flask 🤫.
-                    lib: ["Redux", "React-router-dom"]
-                },
-                learning: {
-                    frontEnd: ["NextJS", "TailwindCSS"],
-                    backEnd: ["Rust 🦀", "Actix", "Rocket", "Axum", "Express"],
-                    orm: ["Drizzle", "Prisma"]
-                }             
+```rust
+fn main() {
+    let me = Person {
+        name: "Sreyas ✨",
+        from: "India 🇮🇳",
+        fav_lang: "Rust 🦀",
+        age: Box::new(|current_year: u32| -> u32 {
+            current_year - 2003
+        }),
+        system: System {
+            os: "Linux 🤓",
+            distro: Distro {
+                name: "Fedora 🎩",
+                version: 40,
+                kernel: cmd($(uname -r | cut -d"-" -f1)),  // 6.10.3
             },
-          db: {
-            knows: ["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
-            learning: ["PostgreSQL"]
-          },
-          mobile: {
-            learning: ["ReactNative"]
-          }
-        }
-      },
-      tools: {
-        design: ["Figma"],
-        workflow: ["Git", "Github"]
-      },
-      editors: ["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
-    }
+            prev_distro: vec!["Ubuntu", "EndeavourOS", "ZorinOS"],
+        },
+        dev: Dev {
+            programming: Programming {
+                languages: Languages {
+                    knows: vec!["Javascript", "Python", "C", "C++", "Java", "Bash", "PHP"],
+                    learning: vec!["Rust 🦀", "TypeScript"],
+                },
+                web_development: WebDevelopment {
+                    knows: {
+                        let mut map = HashMap::new();
+                        map.insert("frontEnd", vec!["Javascript", "React", "JQuery", "HTML", "CSS", "SCSS", "SASS"]);
+                        map.insert("backEnd", vec!["PHP", "NodeJS"]);
+                        map.insert("fullStack", vec!["Flask ⚡"]); // Ya, I know, It's Flask 🤫.
+                        map.insert("lib", vec!["Redux", "React-router-dom"]);
+                        map
+                    },
+                    learning: {
+                        let mut map = HashMap::new();
+                        map.insert("frontEnd", vec!["NextJS", "TailwindCSS"]);
+                        map.insert("backEnd", vec!["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]);
+                        map.insert("orm", vec!["Drizzle", "Prisma"]);
+                        map
+                    },
+                },
+                db: Database {
+                    knows: vec!["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
+                    learning: vec!["PostgreSQL"],
+                },
+                mobile: Mobile {
+                    learning: vec!["ReactNative"],
+                },
+            },
+        },
+        tools: Tools {
+            design: vec!["Figma"],
+            workflow: vec!["Git", "Github"],
+        },
+        editors: vec!["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
+    };
+
+    println!("{:#?}", me);
+}
 
 ```
   
