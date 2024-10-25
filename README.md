@@ -37,22 +37,22 @@ fn main() {
                 web_development: WebDevelopment {
                     knows: {
                         let mut map = HashMap::new();
-                        map.insert("frontEnd", vec!["Javascript", "React", "JQuery", "HTML", "CSS", "SCSS", "SASS"]);
+                        map.insert("frontEnd", vec!["Javascript", "React", "JQuery", "TailwindCSS", "HTML", "CSS", "SCSS", "SASS"]);
                         map.insert("backEnd", vec!["PHP", "NodeJS"]);
-                        map.insert("fullStack", vec!["Flash ⚡"]); // Ya, I know, It's Flask 🤫.
-                        map.insert("lib", vec!["Redux", "React-router-dom"]);
+                        map.insert("fullStack", vec!["NextJS", Flash ⚡"]); // Just kidding, Actually I know it's Flask 🤫.
+                        map.insert("lib", vec!["Redux", "React-router-dom", "Zustand", "Shadcn"]);
                         map
                     },
                     learning: {
                         let mut map = HashMap::new();
-                        map.insert("frontEnd", vec!["NextJS", "TailwindCSS"]);
+                        map.insert("frontEnd", vec![]);
                         map.insert("backEnd", vec!["Rust 🦀", "Actix", "Rocket", "Axum", "Express"]);
-                        map.insert("orm", vec!["Drizzle", "Prisma"]);
+                        map.insert("orm", vec!["Drizzle", "Prisma", "Diesel"]);
                         map
                     },
                 },
                 db: Database {
-                    knows: vec!["MongoDB", "MySql", "MariaDB", "Oracle", "Firebase"],
+                    knows: vec!["Supabase", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase"],
                     learning: vec!["PostgreSQL"],
                 },
                 mobile: Mobile {
