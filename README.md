@@ -39,7 +39,7 @@ fn main() {
                         let mut map = HashMap::new();
                         map.insert("frontEnd", vec!["Javascript", "React", "JQuery", "TailwindCSS", "HTML", "CSS", "SCSS", "SASS"]);
                         map.insert("backEnd", vec!["PHP", "NodeJS"]);
-                        map.insert("fullStack", vec!["NextJS", Flash ⚡"]); // Just kidding, Actually I know it's Flask 🤫.
+                        map.insert("fullStack", vec!["NextJS", Flash ⚡]); // Just kidding, Actually I know it's Flask 🤫.
                         map.insert("lib", vec!["Redux", "React-router-dom", "Zustand", "Shadcn"]);
                         map
                     },
