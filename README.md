@@ -52,8 +52,7 @@ fn main() {
                     },
                 },
                 db: Database {
-                    knows: vec!["Supabase", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase"],
-                    learning: vec!["PostgreSQL"],
+                    knows: vec!["Supabase", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase", "PostgreSQL"],
                 },
                 mobile: Mobile {
                     learning: vec!["ReactNative"],
@@ -64,7 +63,8 @@ fn main() {
             design: vec!["Figma"],
             workflow: vec!["Git", "Github"],
         },
-        editors: vec!["VScode ❤️", "VIM ⚡", "NeoVim 🔥"],
+        editors: vec!["VScode ❤️", "Zed", "VIM ⚡", "NeoVim 🔥"],
+        browsers: vec!["Zen", "Firefox", "Chrome"],
     };
 
     println!("{:#?}", me);
