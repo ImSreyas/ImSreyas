@@ -23,7 +23,7 @@ fn main() {
             os: "Linux 🤓",
             distro: Distro {
                 name: "Fedora 🎩",
-                version: 40,
+                version: 41,
                 kernel: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.12.6
             },
             prev_distro: vec!["Ubuntu", "EndeavourOS", "ZorinOS"],
