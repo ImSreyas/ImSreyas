@@ -99,13 +99,14 @@ fn main() {
 <h2 align="center">Languages, Frameworks, Tools</h2>
 
 <div align="center">
-  <img width="70%" src="https://skillicons.dev/icons?i=react,js,vim,linux,python,c,cpp,java,php,firebase,bash,vscode,redhat,vite,npm" /><br>
-  <img width="75%" src="https://skillicons.dev/icons?i=html,css,scss,git,mysql,figma,flask,nodejs,redux,jquery,neovim,github,raspberrypi,kotlin,md" />
+  <img width="60%" src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,vim,linux,python,c,java,bash,php,docker,supabase" /><br>
+  <img width="60%" src="https://skillicons.dev/icons?i=firebase,postgres,debian,ubuntu,vscode,redhat,vite,mongodb,androidstudio,html,css,scss,postman,pnpm" /> <br>
+  <img width="60%" src="https://skillicons.dev/icons?i=git,mysql,figma,flask,nodejs,npm,redux,jquery,neovim,github,pycharm,raspberrypi,kotlin,md" />
   <br><br>
   
   **`Learning`**
   
-  <img width="50%" src="https://skillicons.dev/icons?i=rust,ts,tailwind,nextjs,mongodb,bun,prisma,express,graphql,androidstudio" />
+  <img width="25%" src="https://skillicons.dev/icons?i=rust,cpp,bun,prisma,express,graphql" />
 </div>
 <br>
 <h2 align="center">My Contributions 🐉</h2>
