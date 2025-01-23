@@ -24,7 +24,7 @@ fn main() {
             distro: Distro {
                 name: "Fedora 🎩",
                 version: 41,
-                kernel: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.12.8
+                kernel: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.12.9
             },
             prev_distro: vec!["Ubuntu", "EndeavourOS", "ZorinOS"],
         },
