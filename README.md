@@ -20,11 +20,11 @@ fn main() {
             current_year - 2003
         }),
         system: System {
-            os: "Linux 🤓",
-            distro: Distro {
+            kernel: "Linux 🤓",
+            os: Distro {
                 name: "Fedora 🎩",
                 version: 41,
-                kernel: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.12.11
+                kernel_v: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.12.11
             },
             prev_distro: vec!["Ubuntu", "EndeavourOS", "ZorinOS"],
         },
@@ -37,9 +37,9 @@ fn main() {
                 web_development: WebDevelopment {
                     knows: {
                         let mut map = HashMap::new();
-                        map.insert("frontEnd", vec!["Javascript", "React", "JQuery", "TailwindCSS", "HTML", "CSS", "SCSS", "SASS"]);
-                        map.insert("backEnd", vec!["PHP", "NodeJS"]);
-                        map.insert("fullStack", vec!["NextJS", Flash ⚡]); // Just kidding, Actually I know it's Flask 🤫.
+                        map.insert("frontEnd", vec!["React", "Javascript", "JQuery", "TailwindCSS", "HTML", "CSS", "SCSS", "SASS"]);
+                        map.insert("backEnd", vec!["PHP", "NodeJS", "Flash ⚡"]); // Just kidding, Actually I know it's Flask 🤫.
+                        map.insert("fullStack", vec!["NextJS"]); 
                         map.insert("lib", vec!["Redux", "React-router-dom", "Zustand", "Shadcn"]);
                         map
                     },
@@ -51,9 +51,7 @@ fn main() {
                         map
                     },
                 },
-                db: Database {
-                    knows: vec!["Supabase", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase", "PostgreSQL"],
-                },
+                db: vec!["Supabase", "PostgreSQL", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase"],
                 mobile: Mobile {
                     learning: vec!["ReactNative"],
                 },
