@@ -61,7 +61,7 @@ fn main() {
             design: vec!["Figma"],
             workflow: vec!["Git", "Github"],
         },
-        editors: vec!["VScode ❤️", "Zed", "VIM ⚡", "NeoVim 🔥"],
+        editors: vec!["Zed ❤️", "VScode", "VIM ⚡", "NeoVim 🔥"],
         browsers: vec!["Zen", "Firefox", "Chrome"],
     };
 
