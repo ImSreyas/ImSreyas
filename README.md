@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=imsreyas&label=Profile%20views&color=0e75b6&style=flat" alt="imsreyas" /> <br> -->
-  <img src="https://profile-counter.glitch.me/ImSreyas/count.svg" alt="visitor" width="200" />
+  <img src="https://profile-counter.glitch.me/ImSreyas/count.svg" alt="visitor" width="300" />
 </p>
 
 <p>
@@ -97,14 +97,14 @@ fn main() {
 <h2 align="center">Languages, Frameworks, Tools</h2>
 
 <div align="center">
-  <img width="60%" src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,vim,linux,python,c,java,bash,php,docker,supabase" /><br>
-  <img width="60%" src="https://skillicons.dev/icons?i=firebase,postgres,debian,ubuntu,vscode,redhat,vite,mongodb,androidstudio,html,css,scss,postman,pnpm" /> <br>
+  <img width="60%" src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,vim,linux,python,c,java,bash,php,docker,supabase,express" /><br>
+  <img width="60%" src="https://skillicons.dev/icons?i=bun,firebase,postgres,debian,ubuntu,vscode,redhat,vite,mongodb,androidstudio,html,css,scss,postman,pnpm" /> <br>
   <img width="60%" src="https://skillicons.dev/icons?i=git,mysql,figma,flask,nodejs,npm,redux,jquery,neovim,github,pycharm,raspberrypi,kotlin,md" />
   <br><br>
   
   **`Learning`**
   
-  <img width="25%" src="https://skillicons.dev/icons?i=rust,cpp,bun,prisma,express,graphql" />
+  <img width="25%" src="https://skillicons.dev/icons?i=rust,cpp,prisma,graphql" />
 </div>
 <br>
 <h2 align="center">My Contributions 🐉</h2>
