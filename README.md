@@ -12,7 +12,7 @@
   
 ```rust
 fn main() {
-    let me = Person {
+    let me = Info {
         name: "Sreyas ✨",
         from: "India 🇮🇳",
         fav_lang: "Rust 🦀",
