@@ -22,11 +22,11 @@ fn main() {
         system: System {
             kernel: "Linux 🤓",
             os: Distro {
-                name: "Fedora 🎩",
+                name: "Arch linux",
                 version: 42,
                 kernel_v: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.16.9
             },
-            prev_distro: vec!["Ubuntu", "EndeavourOS", "ZorinOS"],
+            prev_distro: vec!["Fedora", "Ubuntu", "EndeavourOS", "ZorinOS"],
         },
         dev: Dev {
             programming: Programming {
