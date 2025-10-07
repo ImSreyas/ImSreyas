@@ -31,8 +31,7 @@ fn main() {
         dev: Dev {
             programming: Programming {
                 languages: Languages {
-                    knows: vec!["Javascript", "TypeScript", "Python", "C", "C++", "Java", "Bash", "PHP"],
-                    learning: vec!["Rust 🦀"],
+                    knows: vec!["TypeScript", "Javascript", "Python", "C", "C++", "Java", "Bash", "PHP", Rust 🦀],
                 },
                 web_development: WebDevelopment {
                     knows: {
@@ -40,21 +39,11 @@ fn main() {
                         map.insert("frontEnd", vec!["React", "Javascript", "JQuery", "TailwindCSS", "HTML", "CSS", "SCSS", "SASS"]);
                         map.insert("backEnd", vec!["Express", "PHP", "NodeJS", "Flash ⚡"]); // Just kidding, Actually I know it's Flask 🤫.
                         map.insert("fullStack", vec!["NextJS"]); 
-                        map.insert("lib", vec!["Redux", "React-router-dom", "Zustand", "Shadcn"]);
+                        map.insert("lib", vec!["Redux", "React-router-dom", "Tanstack Query", "Zustand", "Shadcn"]);
                         map
-                    },
-                    learning: {
-                        let mut map = HashMap::new();
-                        map.insert("frontEnd", vec![]);
-                        map.insert("backEnd", vec!["Rust 🦀", "Actix", "Rocket", "Axum"]);
-                        map.insert("orm", vec!["Drizzle", "Prisma", "Diesel"]);
-                        map
-                    },
+                    }
                 },
                 db: vec!["Supabase", "PostgreSQL", "MongoDB", "MySql", "MariaDB", "OracleDB", "Firebase"],
-                mobile: Mobile {
-                    learning: vec!["ReactNative"],
-                },
             },
         },
         tools: Tools {
