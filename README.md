@@ -31,7 +31,7 @@ fn main() {
         dev: Dev {
             programming: Programming {
                 languages: Languages {
-                    knows: vec!["TypeScript", "Javascript", "Python", "C", "C++", "Java", "Bash", "PHP", Rust 🦀],
+                    knows: vec!["TypeScript", "Javascript", "Python", "C", "C++", "Java", "Bash", "PHP", "Rust 🦀"],
                 },
                 web_development: WebDevelopment {
                     knows: {
