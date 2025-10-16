@@ -24,6 +24,7 @@ fn main() {
             os: Distro {
                 name: "Arch linux",
                 kernel_v: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.17.1
+                shell: "Fish",
             },
             prev_distro: vec!["Fedora", "Ubuntu", "EndeavourOS", "ZorinOS"],
         },
