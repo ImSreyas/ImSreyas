@@ -23,7 +23,7 @@ fn main() {
             kernel: "Linux 🤓",
             os: Distro {
                 name: "Arch linux",
-                kernel_v: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.17.2
+                kernel_v: cmd("$(uname -r | cut -d"-" -f1)"),  // 6.17.3
                 shell: "Fish",
             },
             prev_distro: vec!["Fedora", "Ubuntu", "EndeavourOS", "ZorinOS"],
